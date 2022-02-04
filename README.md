@@ -27,3 +27,7 @@ vowel before them, the third consonant forms a syllable with the vowel after it:
 alt-lık, Türk-çe, kork-mak etc
 
 This program can only hyphenates Turkish words, but turkish characters are not recognized, so avoid using them.
+
+
+# LICENSE
+[MIT](https://opensource.org/licenses/MIT) license
